@@ -277,10 +277,10 @@ export default function App() {
               </span>
             </div>
             <h1 className="text-3xl font-extrabold font-display tracking-tight text-[#2B2A27] flex items-center gap-2">
-              Kaizen <span className="text-xl font-normal text-[#8A857D]">| Mentor Produktivitasmu</span>
+              ProductivityMate <span className="text-xl font-normal text-[#8A857D]">| Mentor Produktivitasmu</span>
             </h1>
             <p className="text-[#6E6B64] mt-1 text-sm md:text-md">
-              Membantumu memecah burnout, memilah prioritas kuliah, & mengatasi kebiasaan menunda-nunda dengan bimbingan bersahabat.
+              Membantumu memecah burnout, memilah prioritas kuliah, kerja, maupun tugas rumah, & mengatasi kebiasaan menunda-nunda dengan bimbingan bersahabat.
             </p>
           </div>
           
@@ -334,7 +334,7 @@ export default function App() {
               <div className="flex items-center justify-between pb-2 border-b border-[#FAF7F2]">
                 <h2 className="font-bold text-lg font-display text-[#2B2A27] flex items-center gap-2">
                   <span className="w-2.5 h-6 rounded-full bg-[#EBE2F9]"></span>
-                  1. Input Daftar Tugas Kuliah
+                  1. Input Daftar Tugas Yang Ingin Dikerjakan
                 </h2>
                 {tasks.length > 0 && (
                   <button 
@@ -605,7 +605,7 @@ export default function App() {
                 <div className="w-20 h-20 rounded-full bg-[#FCF4DD] text-[#8C6D27] flex items-center justify-center mb-6 border-4 border-[#FBF9F1] shadow-inner animate-pulse">
                   <User className="w-10 h-10" />
                 </div>
-                <h3 className="font-extrabold text-xl text-[#2B2A27] font-display mb-2">Selamat Datang di CampusMate!</h3>
+                <h3 className="font-extrabold text-xl text-[#2B2A27] font-display mb-2">Selamat Datang di ProductivityMate!</h3>
                 <p className="text-sm text-[#6E6B64] max-w-md leading-relaxed mb-6">
                   Kenalkan, ini adalah area analisis asisten produktivitas belajarmu. Tuliskan beban tugas kuliahmu, tentukan beban kesulitan, serta ceritakan burnout atau rasa malas yang kamu rasakan di panel samping.
                 </p>
@@ -896,7 +896,7 @@ export default function App() {
 
       {/* Styled Footer */}
       <footer className="max-w-6xl mx-auto px-4 mt-16 pt-6 border-t border-[#EDE8DF] text-center text-xs text-[#8A857D]" id="app_footer_container">
-        <p className="mb-1 font-semibold text-[#6E6B64]">CampusMate Pastel Behavioral Assistant — Built for Students 🎓</p>
+        <p className="mb-1 font-semibold text-[#6E6B64]">ProductivityMate Pastel Behavioral Assistant — Built for Students 🎓</p>
         <p>Membantu mengorganisasi prioritas menggunakan Eisenhower Grid, Pomodoro, dan Coach Motivasi secara real-time.</p>
       </footer>
 
