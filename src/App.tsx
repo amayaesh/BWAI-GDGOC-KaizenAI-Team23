@@ -277,7 +277,7 @@ export default function App() {
               </span>
             </div>
             <h1 className="text-3xl font-extrabold font-display tracking-tight text-[#2B2A27] flex items-center gap-2">
-              CampusMate <span className="text-xl font-normal text-[#8A857D]">| Mentor Produktivitasmu</span>
+              Kaizen <span className="text-xl font-normal text-[#8A857D]">| Mentor Produktivitasmu</span>
             </h1>
             <p className="text-[#6E6B64] mt-1 text-sm md:text-md">
               Membantumu memecah burnout, memilah prioritas kuliah, & mengatasi kebiasaan menunda-nunda dengan bimbingan bersahabat.
