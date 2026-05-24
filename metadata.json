@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity Assistant",
+  "description": "Asisten produktivitas dan coach perilaku AI untuk membantu mahasiswa mengelola tugas, prioritas belajar, dan mengatasi prokrastinasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
