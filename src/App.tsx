@@ -273,7 +273,7 @@ export default function App() {
                 <Brain className="w-3.5 h-3.5" /> AI BEHAVIORAL COACH
               </span>
               <span className="px-3 py-1 text-xs rounded-full bg-[#E2F5EC] text-[#347A57] font-semibold tracking-wider flex items-center gap-1">
-                🏡 PASTEL THEME
+                🏡 Your Assistant
               </span>
             </div>
             <h1 className="text-3xl font-extrabold font-display tracking-tight text-[#2B2A27] flex items-center gap-2">
